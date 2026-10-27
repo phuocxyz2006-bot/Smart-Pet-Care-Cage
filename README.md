@@ -48,3 +48,4 @@ Dự án nguyên mẫu (prototype) hệ thống chăm sóc thú cưng tự độ
 3. Cắm cáp USB kết nối Arduino với máy tính.
 4. Chọn đúng Board (`Arduino Uno`) và cổng COM tương ứng.
 5. Bấm **Upload** để nạp code và mở Serial Monitor (Baudrate: 9600) để theo dõi song song (nếu cần).
+![Uploading circuit_image (2).png…]()
